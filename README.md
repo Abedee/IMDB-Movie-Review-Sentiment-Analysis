@@ -49,7 +49,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/imdb_sentiment_analysis.git
+    git clone https://github.com/Abedee/imdb_sentiment_analysis.git
     cd imdb_sentiment_analysis
     ```
 
