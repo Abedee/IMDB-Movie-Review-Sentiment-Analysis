@@ -1,6 +1,7 @@
 # IMDB Movie Review Sentiment Analysis
 
 This repository contains a **Sentiment Analysis** model for classifying IMDB movie reviews as either **positive** or **negative**. The project uses a **Simple RNN (Recurrent Neural Network)** trained on the IMDB dataset, and provides a user-friendly interface built with **Streamlit**.
+Website - https://imdb-movie-review-sentiment-analysis-lbq63yopznna6zgcfazfjp.streamlit.app/
 
 ---
 
